@@ -24,4 +24,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasan000&show_icons=true&hide_border=true&theme=radical">
 </p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=srinivasan000&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
