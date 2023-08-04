@@ -12,7 +12,7 @@
 <a href="mailto: srinivasans2425s@gmail.com "><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp <a href="http://srinivasan.unaux.com"target=""><img alt="Website" src="https://img.shields.io/website?up_message=srinivasan000&up_color=%23ff0&down_message=srinivasan000&down_color=%23ff0&url=http%3A%2F%2Fsrinivasan.unaux.com&logo=%F0%9F%99%82&logoColor=%23ff0&label=%F0%9F%99%82&labelColor=%23000&color=%23000&link=http%3A%2F%2Fsrinivasan.unaux.com&link=srinivasan000"></a>
   <br>
  
-[![srinivasan](https://i.pinimg.com/originals/22/46/7c/22467c0a0654dc3d1101b32337b5be10.gif "Srini")](https://srinivasan000.github.io"srinivasan")
+[![srinivasan](https://i.pinimg.com/originals/22/46/7c/22467c0a0654dc3d1101b32337b5be10.gif "Srini")](https://srinivasan000.github.io)
 <Br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivasan000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="srinivasan000">
